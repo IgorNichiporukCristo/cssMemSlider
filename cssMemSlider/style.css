@@ -148,7 +148,7 @@ input {
 #switch5:checked ~ .flex-block .slides-text .slide-text-content .t1 {
   margin-left: -80%;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
   .sliders {
     height: 50%;
   }
